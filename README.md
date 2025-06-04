@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/sinu5oid/chanutils.svg)](https://pkg.go.dev/github.com/sinu5oid/chanutils)
 
-This repository contains a distributable package with typed (using generics) cache wrappers
+This repository contains a distributable package with typed (using generics) go channel utilities
 
 ## Install the package
 
